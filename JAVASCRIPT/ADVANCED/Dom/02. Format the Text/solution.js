@@ -11,3 +11,5 @@ function solve() {
   }
 
 }
+
+//Basic Web exercise

@@ -13,3 +13,5 @@ function solve() {
     parElement.innerText = `visited ${visitedCount} times`
   }
 }
+
+//Basic Web exercise

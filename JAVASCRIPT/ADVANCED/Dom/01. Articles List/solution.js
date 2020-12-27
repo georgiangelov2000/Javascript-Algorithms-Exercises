@@ -17,3 +17,5 @@ function createArticle() {
 	let sectionElement = document.getElementById('articles');
 	sectionElement.appendChild(articleElement)
 }
+
+//Basic Web exercise

@@ -12,3 +12,5 @@ function growingWord() {
   lastElement.style.color = currentColor;
   colorElements.appendChild(firstColorElement)
 }
+
+//Basic web exercise
