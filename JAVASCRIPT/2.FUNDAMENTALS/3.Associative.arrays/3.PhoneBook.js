@@ -6,6 +6,7 @@ function solve(input) {
         let number = tokens[1];
         phonebook[name] = number;
     }
+    console.log(phonebook)
     for (let key in phonebook) {
         console.log(`${key} -> ${phonebook[key]}`);
     }
