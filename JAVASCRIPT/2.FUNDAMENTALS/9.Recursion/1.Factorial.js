@@ -1,8 +1,8 @@
 function solve(n) {
-    let factorial = 1;
-    for (let i = 1; i <= n; i++) {
-        console.log(factorial*=i);
+    if (n == 0) {
+        return 1
+    } else {
+        return n * solve(n - 1);
     }
-
 }
-solve(5)
+console.log(solve(5))
