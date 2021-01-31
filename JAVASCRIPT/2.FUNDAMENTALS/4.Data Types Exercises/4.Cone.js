@@ -1,0 +1,6 @@
+function cone(radius, height) {
+    let volume = (1 / 3 * Math.PI * radius * radius * height).toFixed(2);
+    let area = (Math.PI * radius * (radius + Math.sqrt(Math.pow(radius, 2) + Math.pow(height, 2)))).toFixed(2)
+    console.log(volume, area)
+}
+cone(3.3,7.8)
