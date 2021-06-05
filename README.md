@@ -1,2 +1,2 @@
 # Javascript Algorithms-Exercises
- В този раздел със задачи се включват  базови и фундаментални  знания по езика Javascript.Типа задачи които съм решавал са :стрингове,масиви,деструктуриране на масиви, асоциативни масиви,oбекти,дом манипулации,прости решения,условни конструкций и рекурсия.
+### This section of tasks includes basic and fundamental knowledge of Javascript. The types of tasks I have solved are: strings, arrays, array destructuring, associative arrays, objects, home manipulations, simple solutions, conditional constructions and recursion.
